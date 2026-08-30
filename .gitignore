@@ -1,0 +1,41 @@
+# Android / Gradle
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Keystore
+*.jks
+*.keystore
+release/
+
+# Models (download on first run, not in git)
+models/*.gguf
+models/*.tflite
+models/*.onnx
+models/*.bin
+!models/.gitkeep
+
+# Logs
+*.log
+office_kit_stream.log
+
+# OS
+Thumbs.db
+
+# Env / secrets
+.env
+.env.local
+*.secret
+secrets.properties
+google-services.json
