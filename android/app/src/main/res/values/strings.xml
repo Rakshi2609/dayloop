@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DAYLOOP</string>
+    <string name="status_idle">Your phone is listening.</string>
+    <string name="status_driving">You\'re driving. Halo blue. Phone silent.</string>
+    <string name="status_meeting">You\'re in a meeting. Halo red. DND on.</string>
+    <string name="status_focus">Focus block armed. Halo green. 25 min.</string>
+    <string name="status_bedtime">Recap ready. Halo white. Tap to send.</string>
+</resources>

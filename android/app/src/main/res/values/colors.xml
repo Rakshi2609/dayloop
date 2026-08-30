@@ -1,0 +1,8 @@
+<resources>
+    <color name="surface">#FFFAFAFA</color>
+    <color name="halo_blue">#FF2563EB</color>
+    <color name="halo_red">#FFDC2626</color>
+    <color name="halo_amber">#FFFBBF24</color>
+    <color name="halo_green">#FF16A34A</color>
+    <color name="halo_white">#FFF8FAFC</color>
+</resources>

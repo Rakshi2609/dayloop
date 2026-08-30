@@ -1,0 +1,4 @@
+# Models are downloaded on first run. See scripts/download_models.sh
+# - Qwen2.5-1.5B-Instruct (Q4_K_M, ~1.1GB) - https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF
+# - Whisper-tiny.en (int8, ~75MB)        - https://huggingface.co/ggerganov/whisper.cpp
+# - MediaPipe Tasks (gesture, pose)      - bundled via gradle dep
