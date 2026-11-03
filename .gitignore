@@ -37,5 +37,4 @@ Thumbs.db
 *.secret
 secrets.properties
 google-services.json
-config.bat
 node_modules
